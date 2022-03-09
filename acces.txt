@@ -1,0 +1,2 @@
+siswa: username :12345 pass: faisal
+admin	: username: admin pass: admin
